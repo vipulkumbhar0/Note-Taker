@@ -1,2 +1,2 @@
 # Note-Taker
-Build with HTML CSS JavaScript
+ Note Taking app with HTML CSS JavaScript
